@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893878979757",
+    "project_id": "sanitfb-7e652",
+    "storage_bucket": "sanitfb-7e652.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893878979757:android:e3a864064cb255337bca24",
+        "android_client_info": {
+          "package_name": "com.techwithsach.flutter_dialogflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893878979757-trrj1kqmeugjb71gh9qq4sgsrlr081in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTLmHqPZbJ_iQFsb0uxKrAXTDS0dhQO14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893878979757-trrj1kqmeugjb71gh9qq4sgsrlr081in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
